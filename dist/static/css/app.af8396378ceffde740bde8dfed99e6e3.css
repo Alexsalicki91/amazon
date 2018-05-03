@@ -1,0 +1,2 @@
+@import url(https://cdn.jsdelivr.net/npm/animate.css@3.5.1);.router-anim-enter-active{animation:coming 1s;animation-delay:.5s;opacity:0}.router-anim-leave-active{animation:going 1s}@keyframes going{0%{transform:translateX(0)}to{transform:translateY(0);opacity:0}}@keyframes coming{0%{transform:translateY(0);opacity:0}to{transform:translateX(0);opacity:1}}.section__about,.section__img-inner{animation-delay:1.5s}.section__project{animation-delay:1s}.pause-animation{animation-play-state:paused}
+/*# sourceMappingURL=app.af8396378ceffde740bde8dfed99e6e3.css.map */
